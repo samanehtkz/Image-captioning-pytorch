@@ -16,14 +16,3 @@ python3 train.py
 
 To download the dataset, please visit:
 https://www.kaggle.com/datasets/adityajn105/flickr8k
-
-To visualize the model outputs, please visit:
-https://wandb.ai/asrimanth/Image-Captioning?workspace=user-asrimanth
-
-We can visualize 2 experiments in the above wandb link:
-sleek-totem-15: ResNet50 as the feature extractor.
-dazzling-sun-14: ResNeXt50 as the feature extractor.
-
-In the main method of the file, we can edit the configuration and the data path of the experiment.
-If you want to load the models we've trained, please load the weights from the following link:
-[DRIVE LINK](https://drive.google.com/drive/folders/1eBSCPqhCZpqxLv95yirOyhJ2bkc2C9Lj?usp=share_link)
